@@ -2,14 +2,14 @@
 	var timer = setInterval(refresh, 5000);
 
 	var motto = [
-	"Una criptomoneda bien bonita", 
-	"Le chauché proyecté",
-	"dejale caer to' el peso",
-	"Por la razón o la chaucha",
-	"Aquí no se cae el sistema",
-	"リサフランク420 / 現代のコンピュー",
-	"Johnny 100 Chauchas",
-	"Make Chaucha Great Again"
+	"Change we need", 
+	"fl3xum time baby!",
+	"pipo",
+	"Por la razón o fl3xum",
+	"Aquí no se cae rajoy",
+	"do you know da wae",
+	"Yisus has joined the lobby",
+	"Make fl3xum Great (not) Again"
 	];
 
 	function refresh () {
